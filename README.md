@@ -30,8 +30,7 @@ This is [moesuiga](https://github.com/moesuiga), a front-end developer. *HTML*, 
 
 <img align="right" alt="Life is REPEAT" width="400px" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
-- 🔭 I’m currently working on [Tuhu](https://www.tuhu.cn/)
-- 💬 Ask me about anything, and I'll be happy to help
-- 📫 How to reach me: [wyw1121@live.com](mailto:wyw1121@live.com)
+- 🔭 2017年9月 ~ 2021年4月 在[Tuhu](https://www.tuhu.cn/)，目前待业中……
+- 📫 如何联系我: [wyw1121@live.com](mailto:wyw1121@live.com)
 
 ![My Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moesuiga&locale=cn)
