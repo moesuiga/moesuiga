@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=moesuiga&show_icons=true&include_all_commits=true&locale=cn&bg_color=15,df3348,2b00a2&icon_color=fff&text_color=fff&title_color=fff)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=moesuiga&show_icons=true&include_all_commits=true&count_private=true&locale=cn&bg_color=15,df3348,2b00a2&icon_color=fff&text_color=fff&title_color=fff)
 
 ## Hi there 👋
 
