@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=moesuiga&show_icons=true&include_all_commits=true&count_private=true&locale=cn&bg_color=15,df3348,2b00a2&icon_color=fff&text_color=fff&title_color=fff)
+[![trophy](https://github-profile-trophy.vercel.app/?username=moesuiga&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My Github Stats](https://github-readme-stats-moesuiga.vercel.app/api?username=moesuiga&show_icons=true&include_all_commits=true&count_private=true&locale=cn&bg_color=15,df3348,2b00a2&icon_color=fff&text_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi there 👋
 
@@ -33,4 +35,4 @@ This is [moesuiga](https://github.com/moesuiga), a front-end developer. *HTML*, 
 - 🔭 目前入职 上海潮办
 - 📫 如何联系我: [wyw1121@live.com](mailto:wyw1121@live.com)
 
-![My Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moesuiga&locale=cn)
+![My Github Top Langs](https://github-readme-stats-moesuiga.vercel.app/api/top-langs/?username=moesuiga&locale=cn)
