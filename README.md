@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moesuiga&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=moesuiga&column=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![My Github Stats](https://github-readme-stats-moesuiga.vercel.app/api?username=moesuiga&show_icons=true&include_all_commits=true&count_private=true&locale=cn&bg_color=15,df3348,2b00a2&icon_color=fff&text_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
