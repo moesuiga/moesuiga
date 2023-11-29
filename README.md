@@ -1,38 +1,26 @@
-<!--
-**moesuiga/moesuiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">嗨！你好啊 👋</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=moesuiga&column=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My Github Stats](https://github-readme-stats-moesuiga.vercel.app/api?username=moesuiga&show_icons=true&include_all_commits=true&count_private=true&locale=cn&bg_color=15,df3348,2b00a2&icon_color=fff&text_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-## Hi there 👋
-
-<a href="https://github.com/moesuiga">
-  <img align="left" alt="moesuiga" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
-</a>
-<a href="https://github.com/moesuiga/moesuiga">
-  <img align="left" alt="moesuiga" src="https://visitor-badge.glitch.me/badge?page_id=moesuiga.moesuiga" />
-</a>
+<p align="center">
+  <img alt="moesuiga" src="https://komarev.com/ghpvc/?username=moesuiga" />
+</p>
 
 <br/>
 
-This is [moesuiga](https://github.com/moesuiga), a front-end developer. *HTML*, *CSS*, *JavaScript*, *TypeScript*, *NodeJS*, and so on.
+<img align="right" alt="Life is REPEAT" width="25%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
-<img align="right" alt="Life is REPEAT" width="400px" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
+这里是 moesuiga，一个前端开发小透明。虽然是个小透明，也请容许我不那么郑重地介绍一下自己：
 
-- 🔭 目前入职 上海潮办
-- 📫 如何联系我: [wyw1121@live.com](mailto:wyw1121@live.com)
+- 2017 年开始从事前端工作，主要在开发小程序，web开发也在行，没有很多大神那么热爱 Coding，但也有自己的一些小乐趣。
+- 一个二不起的 ACGN 爱好者，喜欢异世界（虽然现在大多厕纸）、热血番、搞笑番、超能力（各种超现实的能力），反正很少现实题材，现实已经很骨感了，还是幻想贴我心啊。
+- 明明很菜鸡却还是喜欢玩各种动作游戏（连 Human 难度的 DMC3/4/5 都不能一命通关 😭）。
+- 当然也会玩其他类型的游戏：RPG、解密类、冒险类等等。
 
-![My Github Top Langs](https://github-readme-stats-moesuiga.vercel.app/api/top-langs/?username=moesuiga&locale=cn)
+如果你来到了这里，如果你和我有一些相同的兴趣，如果你愿意和我做个能时不时聊聊天、甚至可以一起玩游戏的朋友，我会很开心的 ^_^
+
+**Best wishes for you, my friends.**
+
+<h2></h2>
+
+[![My Github Stats](https://raw.githubusercontent.com/moesuiga/moesuiga/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![My Github Languages](https://raw.githubusercontent.com/moesuiga/moesuiga/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
