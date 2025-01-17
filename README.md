@@ -24,3 +24,7 @@
 
 [![My Github Stats](https://raw.githubusercontent.com/moesuiga/moesuiga/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![My Github Languages](https://raw.githubusercontent.com/moesuiga/moesuiga/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<p align="center">
+<img src="https://count.getloli.com/@moesuiga?theme=booru-lewd" alt="moesuiga moe counter" />
+</p>
